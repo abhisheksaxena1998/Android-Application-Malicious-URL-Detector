@@ -3,6 +3,8 @@ Android-Application-Malicous-URL-Detector
 
 ## How to install
 
+Note : If "App not installed application" error encountered the turn off Google Play Protect.
+
 1. Open APK file.
 
       ![How to install](/Images/img1.jpg)
