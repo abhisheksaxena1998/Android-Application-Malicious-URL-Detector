@@ -18,8 +18,13 @@ Android-Application-Malicous-URL-Detector
 ## Test the Android Application
 
 1. If a Malicious URL is entered details like City, Organisation, Address, Zipcode, Country, Emails, Domain and Alexa Rank will be displayed along with a warning. 
-  ![How to install](/Images/img5.png)
+  ![How to install](/Images/img5.jpg)
   
-  ![How to install](/Images/img6.png)
+  ![How to install](/Images/img6.jpg)
 
 2. If a Legitimate URL is entered details like City, Organisation, Address, Zipcode, Country, Emails, Domain and Alexa Rank will be displayed without a warning. 
+
+    ![How to install](/Images/img7.jpg)
+    
+    ![How to install](/Images/img8.jpg)
+    
