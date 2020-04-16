@@ -1,0 +1,2 @@
+rootProject.name='Malicious URL Detector'
+include ':app'
